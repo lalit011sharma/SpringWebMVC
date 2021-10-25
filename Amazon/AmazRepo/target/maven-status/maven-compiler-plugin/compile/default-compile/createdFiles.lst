@@ -1,0 +1,5 @@
+com\pp\repository\ProductRepository.class
+com\pp\repository\LoginRepository.class
+com\pp\repository\RegistrationRepository.class
+com\pp\model\UserDto.class
+com\pp\model\Product.class

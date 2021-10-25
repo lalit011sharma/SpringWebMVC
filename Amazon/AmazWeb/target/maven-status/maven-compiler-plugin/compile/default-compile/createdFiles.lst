@@ -1,0 +1,6 @@
+com\pp\interceptor\LoggingInterceptor.class
+com\pp\controller\RegistrationController.class
+com\pp\validator\RegistrationValidator.class
+com\pp\interceptor\TimeInterceptor.class
+com\pp\controller\LoginController.class
+com\pp\controller\ProductController.class
